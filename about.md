@@ -18,3 +18,4 @@
 
 ## Emergencies and illness
 
+[&rarr; Assignments](assignments.md)
