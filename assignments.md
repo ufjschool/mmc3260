@@ -2,7 +2,7 @@
 
 # Assignments
 
-You can earn up to 1,250 points in this course. Your final grade will be calculated by the percentage of points you earned. For example, earning 1,000 points yields an 80% final grade. (1000 / 1250 = 0.8)
+You can earn up to 1,250 points in this course. Your final grade will be calculated by the percentage of points you earned. For example, earning 1,000 points yields an 80% final grade (1000 / 1250 = 0.8).
 
 | Date       | Type       | Name                                      | Points |
 |------------|------------|-------------------------------------------|--------|
