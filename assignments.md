@@ -2,8 +2,13 @@
 
 # Assignments
 
-| Date | Type  |   |   |   |
+| Date | Type | Name | Points |
 |---|---|---|---|---|
+| 9/15  | Profiles  |   |   |   |
+| 9/15  | Profiles  |   |   |   |
+| 9/15  | Profiles  |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
