@@ -1,3 +1,5 @@
+[&larr; Back](README.md)
+
 # Academic Honesty
 
 All work completed for this course must respect the intellectual property of others. When using somebody else's copyrighted material, whether words, images, media, or ideas, proper credit must be given. If direct quotations are used, they must be enclosed in quotation marks and properly cited. If copyrighted material is used indirectly, it must still be properly cited!

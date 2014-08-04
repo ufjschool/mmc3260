@@ -1,3 +1,5 @@
+[&larr; Back](README.md)
+
 # Grading
 
 This class utilizes the following grading scale:
@@ -18,13 +20,6 @@ This class utilizes the following grading scale:
 The grading scale is non-negotiable. A final grade of 87.99%, for instance, is a B. All grades are final unless questions about grades are addressed in writing within 1 week after the grade is posted. If you have concerns about your grades please check with me sooner in the semester rather than later.
 
 More information about: [UF grading policies](https://catalog.ufl.edu/ugrad/current/regulations/info/grades.aspx).
-
-## Course requirements
-
-* Exams: 30%
-* Papers: 30%
-* Project: 30%
-* Attendance: 10%
 
 ## Late Work and Make-up Work
 
