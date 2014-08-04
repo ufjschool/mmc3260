@@ -1,7 +1,7 @@
-mmc3260
+MMC3260: Your Digital Life
 =======
 
-MMC3260: Your Digital Life (Fall 2014)
+Fall 2014
 
 * [About](about.md)
 * [Assignments](assignments.md)
