@@ -17,6 +17,12 @@ By the end of this semester you will:
 * Begin an online portfolio you can use to get a job
 * Learn how to maximize the value of your online presence 
 
+## Course Difficulty
+
+If you've talked to other students from previous semesters about this course, then you've probably already heard that this course is a lot of work. This is true: this is not an "easy" class. While the concepts of good website design seem straight forward, applying those concepts correctly and professionally is not. You will spend many hours on this course. This course will likely take more time than you anticipate.
+
+This course may appear daunting, but we assume that you are entering this course with little to no web design experience. We will guide you through the process of web design, but the most successful students are those that take initiative and responsibility for their learning, and seek out knowledge and skills beyond what we can cover in class.
+
 ## Undergraduate prerequisites
 
 * JOU 1100, Intro to Journalism
