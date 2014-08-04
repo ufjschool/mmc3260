@@ -17,5 +17,3 @@
 ## Students with disabilities
 
 ## Emergencies and illness
-
-[&rarr; Assignments](assignments.md)
