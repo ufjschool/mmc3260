@@ -3,5 +3,9 @@ mmc3260
 
 MMC3260: Your Digital Life (Fall 2014)
 
-https://github.com/ufjschool/mmc3260/blob/develop/grading.md
-[Assignments](assignments.md)
+* [About](about.md)
+* [Assignments](assignments.md)
+* [Calendar](calendar.md)
+* [Grading](grading.md)
+* [Honesty](honesty.md)
+* [Contact](contact.md)
