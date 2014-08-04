@@ -1,3 +1,5 @@
+[&larr; Back](README.md)
+
 # Grading
 
 This class utilizes the following grading scale:
