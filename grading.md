@@ -21,13 +21,6 @@ The grading scale is non-negotiable. A final grade of 87.99%, for instance, is a
 
 More information about: [UF grading policies](https://catalog.ufl.edu/ugrad/current/regulations/info/grades.aspx).
 
-## Course requirements
-
-* Exams: 30%
-* Papers: 30%
-* Project: 30%
-* Attendance: 10%
-
 ## Late Work and Make-up Work
 
 Assignments turned in late will not be accepted. You will be deducted 1 full letter grade (10%) for each day or partial day the project is late.
