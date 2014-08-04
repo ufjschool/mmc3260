@@ -2,6 +2,21 @@
 
 # About the course
 
+Welcome to the online syllabus of MMC 3260 / MMC 5015: Your Digital Life! This is a course about how to build and maintain your online presence, your digital identity, so to speak. Your digital identity includes everything you read, write and do online – email, social media, blogging, personal websites, shopping, archiving your professional work, and gaming. Your digital life is becoming more and more important as the internet and the web permeate every facet of our lives.
+
+## Course Objectives
+
+This class will teach you how to build and maintain a professional and personal online presence that will help you in your career. It also will help you learn to make the best use of the tools the internet gives us for telling stories and presenting information.
+
+By the end of this semester you will:
+
+* Learn about multiplatform storytelling for journalism, telecommunications, advertising and public relations
+* Establish your own online brand
+* Develop an online resume
+* Build a professional presence on at least two social networks
+* Begin an online portfolio you can use to get a job
+* Learn how to maximize the value of your online presence 
+
 ## Undergraduate prerequisites
 
 * JOU 1100, Intro to Journalism
