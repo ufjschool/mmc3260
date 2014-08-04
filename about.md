@@ -14,7 +14,7 @@ There are no required textbooks for this course. There will, however, be several
 
 ## Lecture meetings
 
-| Day | Periods | Location |
+| Day | Period | Location |
 |-----|---------|----------|
 | Tuesday | 6 | FLG 260 |
 | Thursday | 6 | FLG 260 |
