@@ -14,8 +14,10 @@ There are no required textbooks for this course. There will, however, be several
 
 ## Lecture meetings
 
-* Tuesdays and Thursdays, Period 6 (12:50 to 1:40 p.m.)
-* Florida Gym 260
+| Day | Periods | Location |
+|-----|---------|----------|
+| Tuesday | 6 | FLG 260 |
+| Thursday | 6 | FLG 260 |
 
 Please be prompt for all classes. Everyone is late occasionally, but it is impolite to your fellow students and the instructor if you regularly straggle in late. Also, turn off your cell phone during class. Many of you will bring your laptop to class. This is encouraged, but please stay on task during lecture so as not to distract the students around you.
 
@@ -27,8 +29,8 @@ If you struggle with online labs, don't worry: we will also offer two optional, 
 
 | Day | Periods | Location |
 |-----|---------|----------|
-| Tuesday | 4-5 | Weim 3028 |
-| Monday | 6-7 | Weim 2056 |
+| Tuesday | 4-5 | WEIM 3028 |
+| Monday | 6-7 | WEIM 2056 |
 
 ## Computer use
 
