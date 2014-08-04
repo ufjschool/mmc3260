@@ -2,10 +2,18 @@
 
 # Assignments
 
+| Date | Type  |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+## Profiles
+
+## Exercises
+
+## Reactions
+
 ## Exams
 
-## Papers
-
 ## Project
-
-## Attendance
