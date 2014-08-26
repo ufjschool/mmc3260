@@ -32,7 +32,7 @@ Profile assignments comprise 12 percent of your grade.
 
 ## Exercises
 
-Excerise assignments comprise 20 percent of your grade.
+Excerise assignments comprise 20 percent of your grade. You need to fork the [exercises repository](https://github.com/gotoplanb/mmc3260-f14-exercises)
 
 ## Reactions
 
