@@ -6,7 +6,7 @@ You can earn up to 1,250 points in this course. Your final grade will be calcula
 
 | Date       | Type       | Name                                      | Points |
 |------------|------------|-------------------------------------------|--------|
-| 9/15/2014  | profile    | Create a GitHub account                   | 100     |
+| 9/15/2014  | profile    | Create a GitHub account                   | 50     |
 | 9/15/2014  | profile    | Send links to professional social pofiles | 50     |
 | 10/1/2014  | exercise   | Web exercise 1: Quick fix                 | 50     |
 | 10/1/2014  | exercise   | Web exercise 2: Links and images          | 50     |
@@ -24,14 +24,17 @@ You can earn up to 1,250 points in this course. Your final grade will be calcula
 | 12/1/2014  | project    | Project submission                        | 200    |
 | 12/9/2014  | exam       | Exam 3                                    | 100    |
 | 12/15/2014 | project    | Project revisions                         | 50     |
+| 12/15/2014 | profile    | Social profile checks                     | 50     |
 
 ## Profiles
+
+You must create and maintain two social profiles throughout this course. By September 15, paste the links to your GitHub account and two other social networks in Canvas.
 
 Profile assignments comprise 12 percent of your grade.
 
 ## Exercises
 
-Excerise assignments comprise 20 percent of your grade. You need to fork the [exercises repository](https://github.com/gotoplanb/mmc3260-f14-exercises). Exercises are submitted by submitting a pull request to the exercises repository.
+Excerise assignments comprise 20 percent of your grade. You need to fork the [exercises repository](https://github.com/gotoplanb/mmc3260-f14-exercises). Exercises are submitted by pasting the URL to your exercise file within Canvas.
 
 ## Reactions
 
@@ -42,19 +45,19 @@ Excerise assignments comprise 20 percent of your grade. You need to fork the [ex
 5. [Planet Money Makes a T-Shirt](http://apps.npr.org/tshirt/#/title)
 6. [Invisible Child, part 1](http://www.nytimes.com/projects/2013/invisible-child/#/?chapt=1)
 
-Each reaction paper should be at least 500 words and provide your thoughts on the effectivness of the story. What excelled? What could have been done better? What should have been included? Graduate students should write at least 1,000 words per reaction paper.
+Each reaction paper should be at least 500 words and provide your thoughts on the effectivness of the story. What excelled? What could have been done better? What should have been included? Graduate students should write at least 1,000 words per reaction paper. Reaction papers are submitted by uploading a Word or similar file to Canvas.
 
 Reaction assignments comprise 12 percent of your grade. 
 
 ## Exams
 
-Exams are given based on lecture content and guest speakers. Lecture material will not be available online. You must come to lecture.
+Exams are given based on lecture content and guest speakers. Lecture material will not be available online. You must come to lecture. Exams will be given during our lecture time.
 
 Exams comprise 24 percent of your grade.
 
 ## Project
 
-Your final project is a personal website that you will build throughout the semester following lab videos. Grading details will be added soon.
+Your final project is a personal website that you will build throughout the semester following lab videos. Grading details will be added soon. You will submit your project by pasting the a link to your project within Canvas.
 
 Excerise assignments comprise 32 percent of your grade.
 
