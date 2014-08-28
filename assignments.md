@@ -8,7 +8,7 @@ You can earn up to 1,250 points in this course. Your final grade will be calcula
 |------------|------------|-------------------------------------------|--------|
 | 9/15/2014  | profile    | Create a GitHub account                   | 50     |
 | 9/15/2014  | profile    | Send links to professional social pofiles | 50     |
-| 10/1/2014  | exercise   | Web exercise 1: Quick fix                 | 50     |
+| 10/1/2014  | exercise   | Web exercise 1: HTML quick fix            | 50     |
 | 10/1/2014  | exercise   | Web exercise 2: Links and images          | 50     |
 | 10/1/2014  | reaction   | Reactions 1 and 2                         | 50     |
 | 10/2/2014  | exam       | Exam 1                                    | 100    |
