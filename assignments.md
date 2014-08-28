@@ -31,7 +31,7 @@ Profile assignments comprise 12 percent of your grade.
 
 ## Exercises
 
-Excerise assignments comprise 20 percent of your grade. You need to fork the [exercises repository](https://github.com/gotoplanb/mmc3260-f14-exercises).
+Excerise assignments comprise 20 percent of your grade. You need to fork the [exercises repository](https://github.com/gotoplanb/mmc3260-f14-exercises). Exercises are submitted by submitting a pull request to the exercises repository.
 
 ## Reactions
 
@@ -42,13 +42,19 @@ Excerise assignments comprise 20 percent of your grade. You need to fork the [ex
 5. [Planet Money Makes a T-Shirt](http://apps.npr.org/tshirt/#/title)
 6. [Invisible Child, part 1](http://www.nytimes.com/projects/2013/invisible-child/#/?chapt=1)
 
-Reaction assignments comprise 12 percent of your grade.
+Each reaction paper should be at least 500 words and provide your thoughts on the effectivness of the story. What excelled? What could have been done better? What should have been included? Graduate students should write at least 1,000 words per reaction paper.
+
+Reaction assignments comprise 12 percent of your grade. 
 
 ## Exams
+
+Exams are given based on lecture content and guest speakers. Lecture material will not be available online. You must come to lecture.
 
 Exams comprise 24 percent of your grade.
 
 ## Project
+
+Your final project is a personal website that you will build throughout the semester following lab videos. Grading details will be added soon.
 
 Excerise assignments comprise 32 percent of your grade.
 
