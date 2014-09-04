@@ -14,6 +14,6 @@
 
 ## Bob Winsler
 
-* Email:
+* Email: rwinsler@ufl.edu
 * Office location:
 * Office hours:
