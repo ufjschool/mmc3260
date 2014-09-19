@@ -11,7 +11,9 @@
 
 ## September 17, 2014
 
-Matt Waite talks about data permanence
+[Matt Waite](https://twitter.com/mattwaite) talks about data permanence.
+
+* [Watch the video](https://vimeo.com/106561240)
 
 ## October 7, 2014
 
