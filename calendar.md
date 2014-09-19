@@ -8,3 +8,15 @@
 
 * [Watch the video](https://vimeo.com/105821417)
 * [See the slides](https://github.com/ufjschool/mmc3260/blob/master/pdf/tigas.pdf)
+
+## September 17, 2014
+
+Matt Waite talks about data permanence
+
+## October 7, 2014
+
+Becky Lettenberger talks about Borderland
+
+## December 2, 2014
+
+Claire O'neill talkes about Planet Money Makes a T-Shirt
