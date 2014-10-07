@@ -19,6 +19,8 @@
 
 Becky Lettenberger talks about Borderland
 
+* [Watch the video](https://vimeo.com/108293162)
+
 ## December 2, 2014
 
 Claire O'neill talkes about Planet Money Makes a T-Shirt
