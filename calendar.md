@@ -21,6 +21,12 @@ Becky Lettenberger talks about Borderland
 
 * [Watch the video](https://vimeo.com/108293162)
 
+## October 23, 2014
+
+Dave is travelling and recorded the lecture on CSS recap
+
+* [Watch the video](https://vimeo.com/109665134)
+
 ## December 2, 2014
 
 Claire O'neill talkes about Planet Money Makes a T-Shirt
