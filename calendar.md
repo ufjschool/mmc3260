@@ -27,6 +27,12 @@ Dave is travelling and recorded the lecture on CSS recap
 
 * [Watch the video](https://vimeo.com/109665134)
 
+## October 28, 2014
+
+Mobile First Design
+
+* [Watch the video](https://vimeo.com/110247318)
+
 ## December 2, 2014
 
 Claire O'neill talkes about Planet Money Makes a T-Shirt
