@@ -59,5 +59,31 @@ Exams comprise 24 percent of your grade.
 
 Your final project is a personal website that you will build throughout the semester following lab videos. Grading details will be added soon. You will submit your project by pasting the a link to your project within Canvas.
 
-Excerise assignments comprise 32 percent of your grade.
+### Sitemap
+
+The sitemap is a text-based document that lists the pages of your site along with the major sections and type of content that will exist on the page.
+
+### Wireframe
+
+The wireframe is a sketch that shows the major containers of a representative page of your site. You should show the relative size and arrangement of the heade, nav, article, aside (if you have one) and footer). Within the article, draw what type of content/HTML will likely exist. Examples for an article:
+
+* headline
+* subheading
+* photo
+* photo caption
+* primary article text
+
+You don't have to state the content for these elements but just something like squiggly lines for text and boxes for images.
+
+### Composite
+
+The composite is the next iteration of your wireframe. You may use crayons, Word, Photoshop or any other manner you want. All I care is that you in someway show how:
+
+* color
+* fonts
+* imagery
+
+will be used together on your site. For this assignment, it is also acceptable to create something like a mood board. A mood board can be a Word file that included a photo you will use, some rectangles/swatches to show your colors and some text to show your fonts. A mood board won't look at all like your wireframes, and this is okay. I'm trying to get a sense of the aesthetic and mood of your site. 
+
+Project assignments comprise 32 percent of your grade.
 
