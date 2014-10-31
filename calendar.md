@@ -33,6 +33,12 @@ Mobile First Design
 
 * [Watch the video](https://vimeo.com/110247318)
 
+## October 30, 2014
+
+Audio for the Web
+
+* [Watch the video](https://vimeo.com/110544974)
+
 ## December 2, 2014
 
 Claire O'neill talkes about Planet Money Makes a T-Shirt
