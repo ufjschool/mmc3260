@@ -85,5 +85,42 @@ The composite is the next iteration of your wireframe. You may use crayons, Word
 
 will be used together on your site. For this assignment, it is also acceptable to create something like a mood board. A mood board can be a Word file that included a photo you will use, some rectangles/swatches to show your colors and some text to show your fonts. A mood board won't look at all like your wireframes, and this is okay. I'm trying to get a sense of the aesthetic and mood of your site. 
 
+### Website submission
+
+You'll submit an initial website. The instructors will give you quick feedback related to technical requirements. You'll submit a final website. The instructors will grade the functional requirements and adjust your grade for correct technical requirements.
+
+#### Functional requirements
+
+* Site viewable at {username}.github.io
+* Student clearly states the intended audience
+* Primary tasks are easy to complete for the targeted audience
+* Wireframe properly positions information relative to like information and apart from disparate information
+* Visual design shows clear intent to create a consistent feel across the site
+* Consistent font usage
+* Colors have specific meaning instead of arbitrary usage
+* Classes and IDs have semantic meaning
+
+#### Technical requirements
+
+* At least 4 separate HTML pages
+* At least 500 words of content
+* First page is named index.html
+* All filenames are lowercase
+* No `!important` usage in CSS
+* Links to your two social media profiles
+* At least one other external link
+* Include either a mailto link or an embedded contact form
+* Include at least 3 images you created yourself
+* No individual image is larger than 500kb
+* Images are placed in an `images` subdirectory
+* CSS is in a `css` subdirectory`
+* Use only 1 CSS file
+* Site looks good on phones and desktop
+* All pages successfully validate (other than iframes)
+* No grammar mistakes
+* Copyright notice in the footer
+* Consistent navigation placement on every page
+* All text content exists in HTML and not just images
+
 Project assignments comprise 32 percent of your grade.
 
