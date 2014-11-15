@@ -94,7 +94,7 @@ You'll submit an initial website. The instructors will give you quick feedback r
 * Site viewable at {username}.github.io
 * Student clearly states the intended audience
 * Primary tasks are easy to complete for the targeted audience
-* Wireframe properly positions information relative to like information and apart from disparate information
+* Wireframe properly positions information relative to smilar information and apart from dissimilar information
 * Visual design shows clear intent to create a consistent feel across the site
 * Consistent font usage
 * Colors have specific meaning instead of arbitrary usage
@@ -106,12 +106,13 @@ You'll submit an initial website. The instructors will give you quick feedback r
 * At least 500 words of content
 * First page is named index.html
 * All filenames are lowercase
+* No spaces in any filenames
 * No `!important` usage in CSS
 * Links to your two social media profiles
 * At least one other external link
 * Include either a mailto link or an embedded contact form
 * Include at least 3 images you created yourself
-* No individual image is larger than 500kb
+* No individual image is larger than 500kb (except for animated GIFs)
 * Images are placed in an `images` subdirectory
 * CSS is in a `css` subdirectory`
 * Use only 1 CSS file
