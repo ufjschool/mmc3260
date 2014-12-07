@@ -22,7 +22,7 @@ You can earn up to 1,250 points in this course. Your final grade will be calcula
 | 11/15/2014 | exercise   | Web exercise 5: CSS selectors             | 50     |
 | 12/1/2014  | reaction   | Reactions 5 and 6                         | 50     |
 | 12/3/2014  | project    | Project submission                        | 125    |
-| 12/9/2014  | exam       | Exam 3                                    | 100    |
+| 12/11/2014  | exam       | Exam 3                                    | 100    |
 | 12/15/2014 | project    | Project revisions                         | 125     |
 | 12/15/2014 | profile    | Social profile checks                     | 50     |
 
