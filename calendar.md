@@ -43,7 +43,7 @@ Audio for the Web
 
 Claire O'neill talkes about Planet Money Makes a T-Shirt
 
-* [Watch the video](https://vimeo.com/113854475)
+* [Watch the video](https://vimeo.com/113460614)
 
 ## December 4, 2014
 
